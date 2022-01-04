@@ -1,0 +1,2 @@
+# capgtraining
+devops traing
